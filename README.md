@@ -10,7 +10,9 @@
 
 1. python 3.6 or higher
 
-2. `pip install numpy`
+2 `pip install pyQt5`
+
+3. `pip install numpy`
 
 4. `pip install pandas`
 
@@ -36,11 +38,11 @@
 
 
 
-2) Upload the Mri Image File from test image folder into the GUI
+2) Upload the MRI Image File from "test_images" folder into the GUI
 
-The original mask is  displayed beside the MRI image if is present in the current MRI image folder: 
+The original mask is displayed beside the MRI image, if it is present in the current MRI image folder: 
 
-Naming Convection for mask: `MRI_Imagename_mask.tiff`
+Naming Con for mask: `MRI_Imagename_mask.tiff`
 
 <img width="942" alt="image" src="https://user-images.githubusercontent.com/19888725/206880249-79a438ad-52b6-495f-a6e6-bb3cd426741c.png">
 
@@ -49,7 +51,7 @@ Naming Convection for mask: `MRI_Imagename_mask.tiff`
 
 3) Click on submit
 
-Final output with predicted segementation is displayed in a new window
+Final output with predicted segementation is displayed in a new window:
 
 <img width="1194" alt="image" src="https://user-images.githubusercontent.com/19888725/206880279-dafd9cee-fae3-48df-aae5-6d5fb56c2c6a.png">
 
