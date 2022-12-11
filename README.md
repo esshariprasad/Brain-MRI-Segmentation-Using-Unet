@@ -1,4 +1,4 @@
-# Brain-MRI-Segementaion-Using-Unet
+# Brain-MRI-Segmentaion-Using-Unet
 
 
 
