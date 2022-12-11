@@ -49,9 +49,9 @@
 
 
 
-3) Click on submit
+3) Click on "Submit" button.
 
-   Final output with predicted segementation is displayed in a new window:
+   Final output with predicted segmentation is displayed in a new window:
 
 <img width="1194" alt="image" src="https://user-images.githubusercontent.com/19888725/206880279-dafd9cee-fae3-48df-aae5-6d5fb56c2c6a.png">
 
